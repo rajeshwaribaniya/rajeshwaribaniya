@@ -10,6 +10,7 @@
 ## My GitHub Stats
 [![Rajeshwari GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajeshwari1-1&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ***
+![trophy](https://github-profile-trophy.vercel.app/?username=Rajeshwari1-1)
 
 ## Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshwari1-1&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
