@@ -1,4 +1,4 @@
-👋 Hi, I’m Rajshwari Baniya
+👋 Hi, I’m Rajeshwari Baniya.
 ***
 
 [![@rajeshwaribaniya's Holopin board](https://holopin.me/rajeshwaribaniya)](https://holopin.io/@rajeshwaribaniya)
