@@ -9,6 +9,7 @@
 
 ## My GitHub Stats
 [![Rajeshwari GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajeshwari1-1&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[!Rajeshwari GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajeshwari1-1)](https://github.com/anuraghazra/github-readme-stats)
 ***
 ![trophy](https://github-profile-trophy.vercel.app/?username=Rajeshwari1-1)
 
