@@ -8,13 +8,13 @@
 ***
 
 ## My GitHub Stats
-[![Rajeshwari GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Rajeshwari1-1&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Rajeshwari GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rajeshwaribaniya&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ***
-![trophy](https://github-profile-trophy.vercel.app/?username=Rajeshwari1-1)
+![trophy](https://github-profile-trophy.vercel.app/?username=rajeshwaribaniya)
 
 ## Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshwari1-1&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshwaribaniya&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 ***
 
 
