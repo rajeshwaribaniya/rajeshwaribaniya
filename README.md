@@ -4,7 +4,7 @@
 [![@rajeshwaribaniya's Holopin board](https://holopin.me/rajeshwaribaniya)](https://holopin.io/@rajeshwaribaniya)
 ***
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rajeshwari1-1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rajeshwaribaniya&theme=dark)](https://git.io/streak-stats)
 ***
 
 ## My GitHub Stats
