@@ -6,18 +6,20 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rajeshwaribaniya&theme=dark)](https://git.io/streak-stats)
 ***
 
-<div style = "display:flex; ">
+
+
+<a href= "https://dev.to/rajeshwaribaniya" style = "display:flex;" >
  
-<button onClick= "https://dev.to/rajeshwaribaniya"><img src = "https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F206%2Fht-badge.png" ></button>
+<img src = "https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F206%2Fht-badge.png" >
 
-<button onClick= "https://dev.to/rajeshwaribaniya"><img src = "https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F2%2FVersion2-08.png" onClick= "https://dev.to/rajeshwaribaniya"></button>
+<img src = "https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F2%2FVersion2-08.png" onClick= "https://dev.to/rajeshwaribaniya">
 
-<button onClick= "https://dev.to/rajeshwaribaniya"><img src = "https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F9%2FVersion2-07.png" onClick= "https://dev.to/rajeshwaribaniya"></button>
+<img src = "https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F9%2FVersion2-07.png" onClick= "https://dev.to/rajeshwaribaniya">
 
-
+</a>
  
  
-</div>
+
 
 
 ***
